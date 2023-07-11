@@ -2,7 +2,7 @@
 
 This project matches job descriptions with a given resume based on TF-IDF similarity. It helps identify the job position that best suits the provided resume.
 
-## Why TF-IDF?
+## What is TF-IDF? and Why?
 TF-IDF (Term Frequency-Inverse Document Frequency) is a way to measure the importance of words in a document or a collection of documents. It combines two factors:
 Term Frequency (TF): How often a word appears in a document. If a word appears multiple times, it is likely to be more important.
 Inverse Document Frequency (IDF): How rare a word is across all documents. If a word is rare, it is likely to be more significant.
