@@ -92,15 +92,15 @@ column_widths2 = [max(len(str(item)) for item in column) for column in zip(*data
 
 
 # Print the table
-print('\n Top Five \n')
+print("\n Top Five: \n")
 for row in data_top:
     row_formatted = [str(item).ljust(width) for item, width in zip(row, column_widths)]
     print(' | '.join(row_formatted))
 
-print('\n Bottom Five \n')
+print("\n Bottom Five: \n")
 for row in data_bottom:
     row_formatted = [str(item).ljust(width) for item, width in zip(row, column_widths)]
     print(' | '.join(row_formatted))
 
-print('\n')
+print("\n")
 
