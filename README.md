@@ -50,6 +50,6 @@ Enter the full file name with the .txt extention
 
 The program will calculate the similarity between the resume and each job description using TF-IDF. It will then display the most suited job position and a table of the top and bottom five matches.
 
-Demo
+## Demo
 
 ![Image Alt Text](demo.png)
