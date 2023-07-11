@@ -50,28 +50,6 @@ Enter the full file name with the .txt extention
 
 The program will calculate the similarity between the resume and each job description using TF-IDF. It will then display the most suited job position and a table of the top and bottom five matches.
 
-Example Output
+Demo
 
-
-The position most suited to your resume is for a Software Engineer with a similarity of 0.85
-
-Top Five Matches:
-
-Job              | Similarity
-------------------|------------
-Software Engineer| 0.85
-Data Analyst     | 0.80
-UX Designer      | 0.76
-Project Manager  | 0.73
-Sales Executive  | 0.68
-
-Bottom Five Matches:
-
-Job              | Similarity
-------------------|------------
-Marketing Intern | 0.25
-Administrative Assistant | 0.28
-Customer Support | 0.32
-Graphic Designer | 0.35
-Accountant       | 0.40
-
+[Image](demo.png)
