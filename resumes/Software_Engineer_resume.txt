@@ -1,0 +1,40 @@
+Experienced software engineer who has built applications to service customers in industries with stringent technical requirements. Looking to utilize my skillset in translating complex business requirements into easy-to-use web apps to streamline new business creation at a company like Gusto.
+WORK EXPERIENCE
+Xero
+-
+Software Developer
+January 2017 - current
+Washington DC
+Worked on the Payments team to save over 110,000 customers time and improve cash flow through the development of modern, responsive customer experiences
+Led the migration from AWS to GCP for the team to reduce cloud costs by $370,000 per year
+Worked closely with the product team to re-configure the processing of invoices, saving customers over 45,000 manual hours of work per month
+Mentored 2 junior front-end developers on the team on React and documentation best practices within the organization
+Envision Healthcare
+-
+Front End Developer
+January 2014 - December 2016
+Washington DC
+Contributed to the in-house UI library to create reusable components that saved 140 hours of development time monthly
+Created a web app MVP for a store delivery management platform with 100+ business customers to create, manage, and monitor deliveries using React and Redux
+Added new features to a meditation app with 30,000+ monthly active users to enable the uploading of audio and video content using React and Redux
+Through A/B testing of different components and combinations, improved customer conversion rate by 12%, representing $250,000+ in incremental annual revenue
+PROJECTS
+Party Playlist
+Used the Spotify API to create a web app that allows invited party-goers to vote on the songs to be played next
+Utilized Django, HTML, and CSS to create a UI that made it easy to recommend new songs to be played and vote on songs already recommended
+EDUCATION
+Carnegie Mellon University
+-
+Bachelor of Science
+,
+Computer Science
+2008 - 2012
+Pittsburgh, PA
+SKILLS
+Python (Django)
+SQL (PostgreSQL, MySQL)
+Cloud (GCP, AWS)
+JavaScript (ES6, React, Redux, Node.js)
+Typescript
+HTML/ CSS
+CI/CD
