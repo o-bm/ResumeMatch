@@ -1,0 +1,45 @@
+Integration Developer
+
+Position Summary
+
+The ideal candidate is a self-motivated, multi-tasker, and demonstrated team-player. Responsible for the development of software components and enhancements to existing products that are required for integration with other vendors systems mainly from the Physical Security industry. Excel in working with large-scale enterprise applications and frameworks and have outstanding communication and leadership skills.
+
+This position will report to the Engineering Manager.
+
+Responsibilities
+
+Writing clean, high-quality, high-performance, maintainable code
+Develop software components including 3rd party applications integration, database integration, interfaces, and new functionality enhancements
+Support testing and deployment of new integrations and features
+Coordinate cross-functionally to insure project meets business objectives and compliance standards
+Participate in code reviews
+Qualifications
+
+Bachelor's degree in Computer Science (or related field)
+3+ years of Hands-on Experience integrating with external systems using CCTV VMS vendor provided SDKs/APIs (.NET, C, C++) and Web Services technologies such as XML over HTTP, SOAP, and REST.
+Expertise in MS Windows Application Development and platform tools and technologies.
+Autonomous and having excellent analytical, troubleshooting and debugging skills is a must.
+Knowledge of additional Object-Oriented languages (e.g. Java, JavaScript, PowerShell or Python).
+Ability to multi-task, organize, and prioritize work
+Job Types: Full-time, Permanent
+
+Salary: QAR15,000.00 per month
+
+Ability to commute/relocate:
+
+Doha: Reliably commute or planning to relocate before starting work (Required)
+Education:
+
+Bachelor's (Required)
+Experience:
+
+Integrating VMS through SDK & API (Required)
+Transcoding library (like FFMPEG) (Required)
+Developing Rest Services (Required)
+JavaSE development (Required)
+C# development (Required)
+C++ development (Required)
+C development (Required)
+Python development (Required)
+Machine learning library (like OpenCV) (Required)
+Development in streaming protocols (HLS, RTSP, WebRTC) (Required)

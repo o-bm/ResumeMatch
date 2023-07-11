@@ -1,0 +1,52 @@
+Qualifications & Experience required:
+
+at least 10+ years as Senior SAP development Consultant with extensive ABAP development experience in SAP FI/CO/PS modules.
+Development experience in SAP JVA (Joint Venture Accounting) would be beneficial.
+Experience in multiple SAP projects.
+Experience in ABAP OO Programming.
+Experience in ABAP dynamic programming.
+Experience in SAP CFin/SLT Migration.
+Experience in nre SAP ABAP 7.40 (>) syntax.
+Experience in SAP developmeny best practices.
+Experience in SAP performance issues.
+Experience in enhansing SAP standard.
+Experience in FI Validations and Substitutions.
+Experience in Form development.
+Experience in S4 HANA.
+Key Responsibilities:
+
+Candidate will do technical development & document specification.
+Understand of best practices and develop low maintenance, low fragile and scalable solutions.
+Build SAP Workflows.
+Enhancement of SAP standard objects by using the appropriate frameworks.
+Be able to improve performance of long runtime programs.
+Use new ABAP syntax introduced in SAP7.40 and above.
+Assist in good testing frameworks.
+SAP Migration with SLT/CFIN on S4.
+Persona
+Educational Qualifications:
+
+Bachelor's desgree in Software development or equivalent.
+ABAP Certified in S/4 HANA
+Skills Required:
+
+ABAP/Technical Consultant with more than 10 years hands-on experience.
+Functional knowledge of Finance functions and processes including JVA.
+Knowledge of HR and Logistics processes.
+Experience in the FI/CO/JVA modules.
+At least 5 SAP project implementations.
+S4 experience is a must.
+Job Types: Full-time, Contract
+Contract length: 24 months
+
+Salary: Up to QAR30,000.00 per month
+
+Education:
+
+Bachelor's (Preferred)
+Experience:
+
+SAP MM S/4 HANA: 8 years (Required)
+Language:
+
+English (Required)

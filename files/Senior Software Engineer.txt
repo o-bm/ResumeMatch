@@ -1,0 +1,47 @@
+As a Senior Software Engineer at EPAM, you will be responsible for designing, developing, implementing, and maintaining REST microservices using Java, Spring Boot, and Oracle RDBMS. With your extensive experience in Java development and a deep understanding of Spring Boot and Oracle, you will play a crucial role in enhancing and maintaining existing services, supporting third-party integrations, and ensuring the successful deployment of services to various environments. You will also contribute to code reviews, participate in scrum ceremonies, and collaborate closely with cross-functional teams to deliver high-quality software solutions.
+
+Does this sound like you? Join our team and make a great impact on a project in collaboration with a prestigious international company based in Doha.
+
+RESPONSIBILITIES
+Design, develop, and implement REST microservices using Java and Spring Boot
+Enhance and maintain existing services to meet evolving business requirements
+Support third-party integrations, ensuring seamless communication between systems
+Deploy services to different environments, ensuring stability and scalability
+Review and provide constructive feedback on code written by team members to maintain code quality standards
+Participate actively in scrum ceremonies such as daily stand-ups, sprint planning, and retrospectives
+Troubleshoot and resolve complex software issues and bugs
+
+REQUIREMENTS
+Bachelor's or Master's degree in Computer Science or a related field
+5+ years of experience as a Java developer, with a strong understanding of core Java concepts and design patterns
+Proven experience in designing and developing REST microservices using Spring Boot
+Deep knowledge of Oracle RDBMS, including data modeling, SQL, and performance optimization
+Proficiency in using tools such as IntelliJ IDEA, Eclipse, or similar IDEs
+Strong problem-solving skills and the ability to debug and resolve complex software issues
+Experience with version control systems such as Git
+
+NICE TO HAVE
+Experience with cloud platforms such as AWS, Azure, or Google Cloud
+Knowledge of containerization technologies like Docker and Kubernetes
+Familiarity with DevOps practices and CI/CD pipelines
+Experience with front-end technologies such as JavaScript, HTML, and CSS
+
+WE OFFER
+Competitive compensation depending on experience and skills
+Opportunity to work on leading edge platforms, working in a fast-paced, agile, software engineering culture
+Knowledge-sharing with colleagues from EPAM's global tech communities
+Unlimited access to LinkedIn learning solutions
+Regular performance feedback and salary reviews
+Opportunities for professional growth
+Annual discretionary bonus
+Annual air travel tickets for expatriates
+End of service gratuity
+
+ABOUT EPAM
+EPAM is a leading global provider of digital platform engineering and development services. We are committed to having a positive impact on our customers, our employees, and our communities. We embrace a dynamic and inclusive culture. Here you will collaborate with multi-national teams, contribute to a myriad of innovative projects that deliver the most creative and cutting-edge solutions, and have an opportunity to continuously learn and grow. No matter where you are located, you will join a dedicated, creative, and diverse community that will help you discover your fullest potential
+
+ADDITIONAL
+You will be working on site, from our client's office in Doha
+The working schedule is 5 days a week, from Sunday to Thursday (In Qatar, weekend is Friday to Saturday)
+Formal business attire is required
+Please be mindful that local labor law regulations will apply to annual paid leave and sick leave

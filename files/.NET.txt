@@ -1,0 +1,45 @@
+As a Technical Architect (.NET) at EPAM, you will be responsible for designing and implementing robust, scalable, and high-performance software solutions using Microsoft .NET technologies. You will play a critical role in defining the architecture and solution design, ensuring the delivery of high-quality solutions that meet client requirements. Additionally, you will leverage your expertise in Azure DevOps and various .NET frameworks to guide and mentor the development team.
+
+Would you like to work in a dynamic environment, this is your chance to join our team and make an impact on an ambitious project for an international client of EPAM, based in Qatar.
+
+RESPONSIBILITIES
+Utilize your extensive experience as a .NET developer, with a minimum of 8 years, to design and develop software solutions that align with industry best practices
+Define the architectural vision and strategy for projects, considering scalability, performance, security, and maintainability
+Collaborate closely with stakeholders, including business analysts, project managers, and development teams, to gather requirements and translate them into technical solutions
+Work with Azure DevOps as a configuration management tool to streamline the software development lifecycle, including source control, build automation, and deployment
+Provide hands-on expertise in Angular, Web API, MVC, .NET Core, Dependency Injection (DI), LINQ, jQuery, as well as Kendo UI and Telerik controls, ensuring the successful implementation of frontend and backend components
+Demonstrate proficiency in SQL commands and Entity Framework, leveraging your expertise to design and optimize databases and data access layers
+Conduct code reviews, ensuring adherence to coding standards, best practices, and established architectural guidelines
+Collaborate with cross-functional teams to identify and resolve technical challenges, ensuring the overall success of the project
+Mentor and guide junior developers, providing technical leadership and fostering a culture of continuous learning and growth within the team
+
+REQUIREMENTS
+Bachelor's or Master's degree in Computer Science, Engineering, or a related field
+Minimum of 8 years of hands-on experience as a .NET developer, working on enterprise-level projects
+Proven experience in architecture definition and solution design, with a strong understanding of software design principles and patterns
+Extensive knowledge and practical experience with Azure DevOps as a configuration management tool, including source control, build automation, and release management
+Proficiency in Angular, Web API, MVC, .NET Core, Dependency Injection (DI), LINQ, jQuery, as well as Kendo UI and Telerik controls
+Strong expertise in SQL commands and the Entity Framework, with the ability to design and optimize databases and data access layers
+Excellent problem-solving and troubleshooting skills, with the ability to analyze complex technical issues and provide effective solutions
+Strong communication and interpersonal skills, with the ability to collaborate effectively with cross-functional teams and stakeholders
+Certifications in relevant technologies, such as Microsoft Certified Azure Developer Associate or Microsoft Certified Azure Solutions Architect Expert, are highly desirable
+
+WE OFFER
+Competitive compensation depending on experience and skills
+Opportunity to work on leading edge platforms, working in a fast-paced, agile, software engineering culture
+Knowledge-sharing with colleagues from EPAM's global tech communities
+Unlimited access to LinkedIn learning solutions
+Regular performance feedback and salary reviews
+Opportunities for professional growth
+Annual discretionary bonus
+Annual air travel tickets for expatriates
+End of service gratuity
+
+ABOUT EPAM
+EPAM is a leading global provider of digital platform engineering and development services. We are committed to having a positive impact on our customers, our employees, and our communities. We embrace a dynamic and inclusive culture. Here you will collaborate with multi-national teams, contribute to a myriad of innovative projects that deliver the most creative and cutting-edge solutions, and have an opportunity to continuously learn and grow. No matter where you are located, you will join a dedicated, creative, and diverse community that will help you discover your fullest potential
+
+ADDITIONAL
+You will be working on site, from our client's office in Doha
+The working schedule is 5 days a week, from Sunday to Thursday (In Qatar, weekend is Friday to Saturday)
+Formal business attire is required
+Please be mindful that local labor law regulations will apply to annual paid leave and sick leave

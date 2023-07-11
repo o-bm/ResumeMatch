@@ -1,0 +1,47 @@
+As a Front-End Developer at EPAM Systems, you will join our innovative team in Doha, Qatar, and play a vital role in creating exceptional user experiences for a prestigious international client. You will collaborate closely with designers, back-end developers, and project managers to build cutting-edge web applications and ensure seamless integration of user interfaces with backend systems. Your expertise in front-end development and passion for crafting visually stunning, interactive websites will contribute to the success of our projects. Apply now if you want to take your career to the next level.
+
+RESPONSIBILITIES
+Develop engaging and responsive web interfaces using HTML, CSS, and JavaScript
+Implement designers' visions while ensuring optimal user experience
+Create reusable code and libraries for scalable and maintainable applications
+Integrate front-end components with server-side logic in collaboration with back-end developers
+Conduct comprehensive testing for cross-browser compatibility and performance optimization
+Optimize web applications for speed and scalability
+Stay updated with industry trends and propose innovative solutions
+Participate in code reviews, provide feedback, and mentor junior developers
+Collaborate closely with cross-functional teams to deliver successful projects
+Maintain effective communication and adhere to project timelines
+
+REQUIREMENTS
+Bachelor's degree in Computer Science, Software Engineering, or related field
+Proven experience as a Front-End Developer, showcasing expertise in web development projects
+Proficiency in HTML5, CSS3, and JavaScript frameworks (e.g., React, Angular, Vue.js)
+Familiarity with CSS preprocessors (e.g., Sass, Less) and build tools (e.g., Webpack, Gulp)
+Strong understanding of responsive design principles and mobile-first development
+Knowledge of version control systems, such as Git
+Solid grasp of browser rendering behavior and performance optimization techniques
+Excellent problem-solving skills and attention to detail
+Strong communication and collaboration abilities, with a team-oriented mindset
+
+NICE TO HAVE
+Prior experience in Agile development environment is a plus
+
+WE OFFER
+Competitive compensation depending on experience and skills
+Opportunity to work on leading edge platforms, working in a fast-paced, agile, software engineering culture
+Knowledge-sharing with colleagues from EPAM's global tech communities
+Unlimited access to LinkedIn learning solutions
+Regular performance feedback and salary reviews
+Opportunities for professional growth
+Annual discretionary bonus
+Annual air travel tickets for expatriates
+End of service gratuity
+
+ABOUT EPAM
+EPAM is a leading global provider of digital platform engineering and development services. We are committed to having a positive impact on our customers, our employees, and our communities. We embrace a dynamic and inclusive culture. Here you will collaborate with multi-national teams, contribute to a myriad of innovative projects that deliver the most creative and cutting-edge solutions, and have an opportunity to continuously learn and grow. No matter where you are located, you will join a dedicated, creative, and diverse community that will help you discover your fullest potential
+
+ADDITIONAL
+You will be working on site, from our client's office in Doha
+The working schedule is 5 days a week, from Sunday to Thursday (In Qatar, weekend is Friday to Saturday)
+Formal business attire is required
+Please be mindful that local labor law regulations will apply to annual paid leave and sick leave
