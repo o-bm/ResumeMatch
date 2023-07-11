@@ -52,4 +52,4 @@ The program will calculate the similarity between the resume and each job descri
 
 Demo
 
-[Image](demo.png)
+![Image Alt Text](demo.png)
